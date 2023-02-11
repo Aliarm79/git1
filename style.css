@@ -1,7 +1,11 @@
-body{
-    background-color: aliceblue;
+body {
+  background-color: aliceblue;
 }
 
-header{
-    background-color: aqua;
+header {
+  background-color: aqua;
+}
+
+.slider {
+  background-color: blue;
 }
